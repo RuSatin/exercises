@@ -57,6 +57,6 @@ for o in n:
   if o == 0:
     n.remove(o)
 print("Осталось сотрудников:", len(n))
-print(n)
+print("Список": n)
 print("Максимальная ЗП:", max(n))
 print("Минимальная ЗП:", min(n))
